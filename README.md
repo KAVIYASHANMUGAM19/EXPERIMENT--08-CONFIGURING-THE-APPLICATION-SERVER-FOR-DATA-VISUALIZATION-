@@ -1,3 +1,6 @@
+# NAME: S.KAVIYA
+# REGSITER NO: 212223040090
+# DEPARTMENT : CSE
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
@@ -28,9 +31,12 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
 
+![Screenshot (21)](https://github.com/KAVIYASHANMUGAM19/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/155141139/d8ba7769-803f-4abc-8ff5-4c0807b80aea)
+
+![Screenshot (23)](https://github.com/KAVIYASHANMUGAM19/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/155141139/17091eec-95c3-43e2-8f48-90abe73a691a)
+
+![Screenshot (24)](https://github.com/KAVIYASHANMUGAM19/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/155141139/096bdfd0-ce62-4f79-a023-ac4e5acd113f)
 
 
 ## Results: 
