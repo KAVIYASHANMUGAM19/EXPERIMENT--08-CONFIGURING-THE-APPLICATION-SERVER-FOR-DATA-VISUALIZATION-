@@ -1,6 +1,5 @@
-# NAME: S.KAVIYA
-# REGSITER NO: 212223040090
-# DEPARTMENT : CSE
+# DATE: 09.04.24
+
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
